@@ -6,7 +6,6 @@
   prerequisites: |
     Открыта корзина с добавленными туда товарами 
   test-data: |
-  Адрес интернет-магазина https://hexlet-products-store.vercel.app/
   steps:
     - Обновляем страницу нажатием клавиши F5 
   expected-result: |
@@ -19,7 +18,6 @@
   prerequisites: |
     Открыта главная страница 
   test-data: |
-  Адрес интернет-магазина https://hexlet-products-store.vercel.app/
   steps:
     - Добавляем товар в корзину
     - Открываем корзину
@@ -34,7 +32,6 @@
   prerequisites: |
     Открыта главная страница 
   test-data: |
-  Адрес интернет-магазина https://hexlet-products-store.vercel.app/
   steps:
     - В меню поиска, в левом верхнем углу, вводим слово "Red"
   expected-result: |
@@ -47,7 +44,6 @@
   prerequisites: |
     Открыта главная страница 
   test-data: |
-  Адрес интернет-магазина https://hexlet-products-store.vercel.app/
   steps:
     - открываем выпадающий список "Категория" в левом вархнем углу
     - Выбираем любую категорию
@@ -61,7 +57,6 @@
   prerequisites: |
     Открыта главная страница 
   test-data: |
-  Адрес интернет-магазина https://hexlet-products-store.vercel.app/
   steps:
     - Выбираем любой товар с главной страницы и нажимаем на него
   expected-result: |
@@ -74,7 +69,6 @@
   prerequisites: |
     Открыта главная страница  
   test-data: |
-  Адрес интернет-магазина https://hexlet-products-store.vercel.app/
   steps:
     - Открываем DevTools
     - При помощи сочетания клавиш Ctr+Shift+M открываем Toggle Device Toolbar
@@ -89,7 +83,6 @@
   prerequisites: |
     Открыты Google Chrome и Mazilla Firefox 
   test-data: |
-  Адрес интернет-магазина https://hexlet-products-store.vercel.app/
   steps:
     - Открываем главную страницу интернет-магазина (https://hexlet-products-store.vercel.app/)
   expected-result: |
@@ -102,7 +95,6 @@
   prerequisites: |
     Открыта главная страница 
   test-data: |
-  Адрес интернет-магазина https://hexlet-products-store.vercel.app/
   steps:
     - Добавить в корзину товары
     - Перейти в корзину и скопировать ссылку на нее
@@ -117,7 +109,6 @@
   prerequisites: |
     Главная страница открыта в 10 вкладках на одном устройстве и в 10 вкладках на другом
   test-data: |
-  Адрес интернет-магазина https://hexlet-products-store.vercel.app/
   steps:
     - Начать перезагружать страницу магазина на всех устройствах
   expected-result: |
